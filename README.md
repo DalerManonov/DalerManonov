@@ -3,7 +3,6 @@
 </h1>
 <h3>Full-Stack Software Engineer with experience in QA Automation and Manual Testing </h3>
 <img align="right"src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp">
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
 ⚡️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) including methodologies Agile and Waterfall.
   
