@@ -2,9 +2,6 @@
 Hello, world! 👋  </h1>
  <div align="center">
 <h3>I'm a full-stack software engineer <h1 align="center">
-🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
- <div align="center">
-<h3>I'm QA Software Engineer with experience in QA Automation and Manual Testing </h3>
   </div><br>
   <div align="center">
   <img src="https://www.opencodez.com/wp-content/uploads/2020/05/Full-Stack-QA-1024x593.png">
