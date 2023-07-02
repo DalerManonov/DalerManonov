@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Daler;I'm+happy+to+see+your+here!" alt="Typing SVG" /></a>
 </h1>
  <div align="center">
-<h3>Full-Stack Engineer with experience in QA Automation and Manual Testing </h3>
+<h3>Full-Stack Software Engineer with experience in QA Automation and Manual Testing </h3>
 <img align="right"src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp">
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
