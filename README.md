@@ -1,6 +1,5 @@
 <h1 align="center">
-Hello, world! 👋 
-  I'm a full-stack software engineer </h1>
+Hello, world! 👋 I'm a full-stack software engineer <h1 align="center" </h1>
 <div align="center">
 <h3>I'm a full-stack software engineer  <h1 align="center">
   </div><br>
