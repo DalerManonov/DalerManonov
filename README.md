@@ -16,8 +16,7 @@
 
 Feel free to learn more & connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-dmitriiosipov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriiosipov/)](https://www.linkedin.com/in/dmitriiosipov/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Daler Manonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/daler-mannonov/))](https://www.linkedin.com/in/daler-mannonov/)
   <a href="https://www.linkedin.com/in/daler-mannonov//"> [![Gmail Badge](https://img.shields.io/badge/-dr.daler.manonov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katt.oleneva@gmail.com)](mailto:dr.daler.manonov@gmail.com)
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
