@@ -6,17 +6,17 @@
 <img align="right"src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp">
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-⚛️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) including methodologies Agile and Waterfall.
+⚡️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) including methodologies Agile and Waterfall.
   
-🖱️ Actively involved in Agile/Scrum Methodology in the project. 
+⚡️ Actively involved in Agile/Scrum Methodology in the project. 
 
-🥇 Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
+⚡️ Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.
 
-⚜️ Good hands-on experience on test management and bug tracking tool JIRA.
+⚡️ Good hands-on experience on test management and bug tracking tool JIRA.
 
-📑 Hands-on experience in the preparation of Test Cases and Test Reports.
+⚡️ Hands-on experience in the preparation of Test Cases and Test Reports.
 
-🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
+⚡️ Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
 </ul>
 
 
