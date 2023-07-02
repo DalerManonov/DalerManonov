@@ -1,7 +1,7 @@
 <h1 align="center">
 Hello, world! 👋  </h1>
  <div align="center">
-<h3>I'm a full-stack software engineer <img src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp" width="120"> <h1 align="center">
+<h3>I'm a full-stack software engineer <img src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp" width="150"> <h1 align="center">
   </div><br>
   <div align="center">
   <img src="https://www.opencodez.com/wp-content/uploads/2020/05/Full-Stack-QA-1024x593.png">
