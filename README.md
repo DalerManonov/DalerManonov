@@ -21,7 +21,7 @@
 
 Feel free to learn more & connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-DalerManonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daler-mannonov/)](https://https://www.linkedin.com/in/daler-mannonov/)
+[![Linkedin Badge](https://img.shields.io/badge/-DalerManonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daler-mannonov/)](https://www.linkedin.com/in/daler-mannonov/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Dr.daler.manonov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mmailto:dr.daler.manonov@gmail.com)](mailto:dr.daler.manonov@gmail.com)
 
