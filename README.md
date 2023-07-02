@@ -4,11 +4,11 @@
 <h3> <div align="center"> Full-Stack Software Engineer with experience in QA Automation and Manual Testing </h3>
 <img align="right"src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp">
 <ul>
-⚡️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) including methodologies Agile and Waterfall.  
-⚡️ Actively involved in Agile/Scrum Methodology in the project.   
-⚡️ Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.  
-⚡️ Good hands-on experience on test management and bug tracking tool JIRA.  
-⚡️ Hands-on experience in the preparation of Test Cases and Test Reports.  
+⚡️ Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) including methodologies Agile and Waterfall.      
+⚡️ Actively involved in Agile/Scrum Methodology in the project.       
+⚡️ Proficient knowledge in various types of testing like Smoke, Regression, Sanity, and End-to-End.      
+⚡️ Good hands-on experience on test management and bug tracking tool JIRA.      
+⚡️ Hands-on experience in the preparation of Test Cases and Test Reports.        
 ⚡️ Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
 </ul>
 
