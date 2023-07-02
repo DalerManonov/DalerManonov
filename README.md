@@ -17,7 +17,7 @@
 Feel free to learn more & connect with me:
 
 
-  <a href="https://www.linkedin.com/in/artur-khudaverdiev/">
+  <a href="https://https://www.linkedin.com/in/daler-mannonov//">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
