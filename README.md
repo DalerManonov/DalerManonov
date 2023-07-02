@@ -12,8 +12,7 @@
   
 ⚡️ Good hands-on experience on test management and bug tracking tool JIRA.
   
-⚡️ Hands-on experience in the preparation of Test Cases and Test Reports.
-
+⚡️ Hands-on experience in the preparation of Test Cases and Test Reports.  
 ⚡️ Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
 </ul>
 
