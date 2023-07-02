@@ -4,7 +4,7 @@ Hello, world! 👋  </h1>
 <h3>I'm a full-stack software engineer  <h1 align="center">
   </div><br>
   <div align="center">
-  <img src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp" width="200">
+  <img src="https://cdn-thumbs.comidoc.net/750/webp/3111548_46f1_2.webp">
     </div>
 <br>
 <h2 align="center"> <pre>⚙️🆃🅾🅾🅻🆂 🅰🅽🅳 🅻🅰🅽🅶🆄🅰🅶🅴🆂</pre></h2>
